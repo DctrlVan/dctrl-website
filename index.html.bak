@@ -1,0 +1,4 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Open+Sans:light" rel=stylesheet><link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel=stylesheet><link rel=stylesheet type=text/css href="https://fonts.googleapis.com/css?family=Tangerine"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>dctrl</title><link href=/static/css/app.8e1e83fbede70c1df48c2afa690a8c87.css rel=stylesheet></head><div id=app><router-view></router-view></div><style>body, html, main{
+  background: #202020;
+  width:100%;
+}</style></html><script type=text/javascript src=/static/js/manifest.7cd97e37c3a133b78f91.js></script><script type=text/javascript src=/static/js/vendor.1eb5f01e76300a535a94.js></script><script type=text/javascript src=/static/js/app.d13a3ac76b81e31975c5.js></script>
