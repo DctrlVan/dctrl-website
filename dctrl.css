@@ -1,0 +1,83 @@
+body {
+  background: #202020;
+  width: 100%;
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: Raleway,HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #222;
+  margin: 0;
+}
+div.mobile { display: none; }
+div.navigation { margin-left: 1em; }
+main {
+  display: flex;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: #5eab98;
+  font-family: monospace;
+}
+.side_bar {
+  flex-basis: 10rem;
+  flex-shrink: 0;
+  flex-grow: 0;
+}
+.content {
+  flex-grow: 4;
+  overflow-y: scroll;
+  padding: 0 5rem;
+}
+nav {
+  width: 100%;
+  flex-direction: column;j
+}
+img.dctrllogo {
+  padding: 2rem;
+  height: 160px;
+  border: 0;
+}
+a { background-color: transparent; }
+a[data-v-398b8a86] {
+  text-decoration: none;
+  color: #5eab98;
+  padding: 10px 20px;
+  border-radius: 30px;
+  margin-left: 3em;
+  border: 3px solid #5eab98;
+  list-style: none;
+  font-family: sans-serif;
+  display: block;
+  margin-bottom: .54321em;
+}
+div[data-v-77eacd35] {
+  border-bottom-style: solid;
+  border-bottom-width: .4em;
+  border-color: #f7a400;
+  color: #fff;
+  background: #1d5d63;
+  padding-left: 3.4567em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    font-weight: 300;
+}
+h3 {
+    font-size: 3rem;
+    line-height: 1.3;
+    letter-spacing: -.1rem;
+}
+div h3[data-v-77eacd35] {
+  font-size: 2.2em;
+  margin: 0;
+}
+p[data-v-0a7a8914] {
+  font-size: 1.3em;
+  color: #fff;
+  font-family: Open Sans,light,sans-serif;
+  margin-bottom: 2.5rem;
+  margin-top: 0;
+}
